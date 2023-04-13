@@ -1,0 +1,75 @@
+1. What is docker host , docker image, docker container?
+
+2. How to auto start the docker container?
+
+
+3.How to limit the docker container to use only specific memory as CPU. (docker run command -find the options)
+
+4.How to provide the static names for the docker containers?
+
+5.How to rename docker containers?
+
+6. How to open the port on the existing docker containers? is it possible?
+
+
+7. How to get the Exited status ? How many status do we have?
+
+
+8. What is diff b/w Virtualization and Containerzation? Is this the same?
+
+9. Container is not starting with docker -dit .. command , How to rectify?
+
+10. How to change the default docker network?
+
+11. How many types of networks are available in docker>
+
+12. What is docker tag.
+
+13. How to start an application in docker container?
+
+14. How to get a static ip:10.0.0.5 to my container?
+
+15. Docker Registries list : ECR(Elastic container Registry)
+ACR (Azure Container Registry)
+GCR(Google Container Registry)
+Nexus
+
+Create your won images here
+
+16.How to push images from one docker host to another docker host?
+
+17. My container is continouly restarting? What should I do to fix it
+
+18. Differences between docker and vm ware?
+
+19. What is customized image
+
+20. Can we communicate between two docker containers which are running in two docker hosts? 
+
+21. Can we communicate between two containers which are running in the same docker host?
+
+22. What is docker volume? HOw many ways we can create docker volume?
+
+23. How to copy files from docker host to container and vice versa?
+
+24. After updating the changes to the application container, to reflect those changes, what do we do?
+-restart docker container
+
+25. Unable to create a container? What could be the reason?
+
+
+1) difference between add and copy ?
+2) difference between CMD and entry point ?
+3) ADD . .
+4) what is docker file ?
+5) how to check how many containers are running ?
+6) docker logging driver ?
+7) what is difference between bridge network and custom bridge network?
+8) difference between overlay network and host network ?
+9) what is port forwarding in docker what is the use of it ? 
+10) how to login/enter to a container? 
+11) what is docker system prune and docker image prune?
+12) how many types of volumes are there in Docker? (Local and network)
+13) How to check image vulnerabilty ? 
+
+
